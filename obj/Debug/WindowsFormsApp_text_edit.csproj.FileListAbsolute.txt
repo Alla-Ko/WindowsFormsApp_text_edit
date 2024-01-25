@@ -1,0 +1,13 @@
+C:\Alla\C#_proj\WindowsFormsApp_text_edit\bin\Debug\WindowsFormsApp_text_edit.exe.config
+C:\Alla\C#_proj\WindowsFormsApp_text_edit\bin\Debug\WindowsFormsApp_text_edit.exe
+C:\Alla\C#_proj\WindowsFormsApp_text_edit\bin\Debug\WindowsFormsApp_text_edit.pdb
+C:\Alla\C#_proj\WindowsFormsApp_text_edit\obj\Debug\WindowsFormsApp_text_edit.csproj.AssemblyReference.cache
+C:\Alla\C#_proj\WindowsFormsApp_text_edit\obj\Debug\WindowsFormsApp_text_edit.csproj.SuggestedBindingRedirects.cache
+C:\Alla\C#_proj\WindowsFormsApp_text_edit\obj\Debug\WindowsFormsApp_text_edit.Form1.resources
+C:\Alla\C#_proj\WindowsFormsApp_text_edit\obj\Debug\WindowsFormsApp_text_edit.Properties.Resources.resources
+C:\Alla\C#_proj\WindowsFormsApp_text_edit\obj\Debug\WindowsFormsApp_text_edit.Resource1.resources
+C:\Alla\C#_proj\WindowsFormsApp_text_edit\obj\Debug\WindowsFormsApp_text_edit.csproj.GenerateResource.cache
+C:\Alla\C#_proj\WindowsFormsApp_text_edit\obj\Debug\WindowsFormsApp_text_edit.csproj.CoreCompileInputs.cache
+C:\Alla\C#_proj\WindowsFormsApp_text_edit\obj\Debug\WindowsFormsApp_text_edit.exe
+C:\Alla\C#_proj\WindowsFormsApp_text_edit\obj\Debug\WindowsFormsApp_text_edit.pdb
+C:\Alla\C#_proj\WindowsFormsApp_text_edit\obj\Debug\WindowsFormsApp_text_edit.Form2.resources
